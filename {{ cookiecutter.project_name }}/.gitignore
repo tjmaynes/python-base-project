@@ -168,7 +168,3 @@ cython_debug/
 
 # Macos
 .DS_Store
-
-# Generated
-stock_picks_optimizer/data/yfinance-cache.sqlite
-stock_picks_optimizer/data/*.db
